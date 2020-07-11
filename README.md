@@ -2,6 +2,7 @@
 This project is created to retrieve all the comments of a post on Instagram along with username. The retreive data is saved as an Excel file.
 
 File to execute : get_commentator_list.py
+
 Access Token and other things necessary beforehand. (recevied through developers account on Facebook)
 
 Highly inspired through :
