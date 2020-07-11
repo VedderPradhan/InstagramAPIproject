@@ -9,5 +9,6 @@ https://www.youtube.com/watch?v=M7FMnK9am3g&list=PL0glhsZ01I-BAFwPmQBWMNqUDnkSlO
 
 ##Future Plans
 Turn this as a useful tool for people hosting giveaways on Instagram.
+For example scanning through each comments to determine whether to include the commentator in the giveaway list. (example condition: must tag three other accounts)
 
 
